@@ -66,5 +66,10 @@ El diseño de la base de datos utiliza una estructura relacional para gestionar 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-artiaga-león)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisleonla)
 
+## 🎁 Agradecimientos
+Este proyecto ha sido una etapa fundamental en mi formación como desarrollador backend. Un agradecimiento especial a Alura Latam y al programa Oracle Next Education por proporcionar el desafío Literalura, el cual me permitió profundizar en el ecosistema de Spring Boot y el manejo de bases de datos relacionales.
+
+Asimismo, gracias a ti por visitar este repositorio. Si tienes alguna sugerencia para mejorar el código o simplemente quieres conectar, ¡no dudes en contactarme!
+
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
